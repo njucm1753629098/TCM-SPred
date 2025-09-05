@@ -2,12 +2,12 @@
 A multimodal AI-driven Traditional Chinese Medicine (TCM) symptom prediction model (MTC-SPred) .
 
 ## Hardware & Software Environment:
-CPU:14 vCPU Intel® Xeon® Gold 6330 @ 2.00 GHz
-GPU:NVIDIA RTX 3090 (24 GB)
-OS:Ubuntu 22.04 LTS
-python：3.10
-pytorch：2.1.2
-CUDA：11.8
+- CPU: 14 vCPU Intel® Xeon® Gold 6330 @ 2.00 GHz  
+- GPU: NVIDIA RTX 3090 (24 GB)  
+- OS: Ubuntu 22.04 LTS  
+- Python: 3.10  
+- PyTorch: 2.1.2  
+- CUDA: 11.8  
 
 ## Folder Structure
 TCM-SPred/
