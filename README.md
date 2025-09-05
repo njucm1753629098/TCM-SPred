@@ -10,6 +10,7 @@ A multimodal AI-driven Traditional Chinese Medicine (TCM) symptom prediction mod
 - CUDA: 11.8  
 
 ## Folder Structure
+```
 TCM-SPred/
 ├── data/                          # Training data
 ├── data_process/                  # Data preprocessing scripts
@@ -17,6 +18,7 @@ TCM-SPred/
 ├── training_metrics_plots/        # Additional evaluation metric plots
 ├── word2vec_models/               # Pre-trained word embedding models
 └── *.py                           # Main scripts
+```
 
 ## ## Usage
 ### 1. Train the TCM-SPred model：
